@@ -11,6 +11,10 @@ This should serve as a project to be used as a template to language specific tem
 - Python
 - PHP
 
+#### Git ignore file
+
+This file will simply let you ignore folders, OS specific files and language specific folders, files, etc. It will be also important to note that any IDE folder or files should be also included, ideally a project should not be IDE dependent.
+
 ### Containers
 Usage of containers to test different approaches, editors and even OSes to help ease the environment related configurations.
 
